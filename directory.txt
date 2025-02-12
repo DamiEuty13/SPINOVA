@@ -1,0 +1,12 @@
+- /app
+  - core/
+    - game_logic.py
+  - db/
+    - models.py
+    - crud.py
+  - payments/
+    - crypto_handlers.py
+    - fiat_handlers.py
+  - static/
+    - css/
+    - js/

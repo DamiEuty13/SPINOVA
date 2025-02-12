@@ -1,0 +1,7 @@
+streamlit==1.22.0
+numpy==1.24.3
+tronpy==2.4.0
+plotly==5.15.0
+sqlalchemy==2.0.15
+redis==4.5.5
+apscheduler==3.10.1
